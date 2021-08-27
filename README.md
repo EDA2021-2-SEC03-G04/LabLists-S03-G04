@@ -29,3 +29,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 
 Est-1: David Burgos Mendez - d.burgos - 201818326
+Est-2: Andrés Mugnier - a.mugnier - 201729994
